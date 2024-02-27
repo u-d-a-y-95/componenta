@@ -1,5 +1,5 @@
 {
-  "name": "componenta",
+  "name": "reactify-kit",
   "version": "0.0.1",
   "description": "",
   "type": "module",
@@ -57,6 +57,6 @@
   "author": "UDay <uday.dev.bd@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/u-d-a-y-95/componenta.git"
+    "url": "https://github.com/u-d-a-y-95/reactify-kit.git"
   }
 }
