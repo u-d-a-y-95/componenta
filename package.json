@@ -20,8 +20,6 @@
     "build-storybook": "storybook build"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@storybook/addon-essentials": "^7.6.17",
     "@storybook/addon-interactions": "^7.6.17",
@@ -55,7 +53,10 @@
   "peerDependencies": {
     "react": "^18.2.0"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@u-d-a-y-95"
+  "license": "MIT",
+  "author": "UDay <uday.dev.bd@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/u-d-a-y-95/componenta.git"
   }
 }
