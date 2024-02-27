@@ -58,8 +58,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/u-d-a-y-95/componenta.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
